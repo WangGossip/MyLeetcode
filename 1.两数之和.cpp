@@ -1,3 +1,14 @@
+// @before-stub-for-debug-begin
+// ~以下为调试所需
+// #include <vector>
+// #include <string>
+// #include "commoncppproblem1.h"
+
+// #include <map>
+// using namespace std;
+// ~以上为调试所需
+// @before-stub-for-debug-end
+
 /*
  * @lc app=leetcode.cn id=1 lang=cpp
  *
